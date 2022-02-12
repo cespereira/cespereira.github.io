@@ -1,10 +1,18 @@
 Gestão de Manuais
 =============================================
 
-Contents
---------
+Manuais de Instalação
+--------------------------------
 
 .. toctree::
 
-   usage
+   manual_instalacao_01
+   manual_instalacao_02
 
+
+Manuais de Terceiros
+--------------------------------
+
+.. toctree::
+
+   manual_terceiros

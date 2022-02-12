@@ -1,7 +1,6 @@
-Como usar esse esse produto de terceiro
+Instalação do produto 01
 ------------------------------------------------
 
 Use as seguintes instruções:
 
-1. Faça A
-2. Faça B
+.. youtube:: 2Rsz3JEbw0Y
