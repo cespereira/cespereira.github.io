@@ -245,9 +245,9 @@ language:
   title: LANGUAGES
   description: |
   items:
-    - idiom: Português
+    - idiom: Portuguese
       level: Native
-    - idiom: Inglês
+    - idiom: English
       level: Professional
 
 interest:
