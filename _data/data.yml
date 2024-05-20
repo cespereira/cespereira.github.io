@@ -24,10 +24,34 @@ experience:
   description: |
 
   items:
+    - company: Kuri Saúde
+      link: '#'
+      tags: Kotlin, Spring Boot, Postgres, AWS.
+      date: 2023.10 - 2024.03
+      role: Engenheiro de Software
+      location: São Paulo
+      description: |
+        + Definição, implementação e acompanhamento de soluções que tragam mais performance e escalabilidade para o crescimento sustentável da empresa. 
+        + Dar suporte aos times durante as definições de soluções.
+        + Criar aplicações de prova de conceito com novas tecnologias/arquiteturas.
+        Tecnologias: Kotlin, Spring Boot, Postgres, Typescript, AWS, Metodologia Agéis.
+
+    - company: Freelance
+      link: '#'
+      tags: Python, Pandas, Google Cloud, Google BigQuery, Google Functions
+      role: Engenheiro de Software
+      location: São Paulo
+      description: |
+      Definição, implementação de solução de gestão de relatórios financeiros na cloud para uma gestora de fundos de investimento. 
+        + Criar aplicações de prova de conceito com novas tecnologias/arquiteturas.
+        + Definição da arquitetura da solução utilizando plataforma GCloud.
+        + Codificação dos processos de ingestão e manipulação dos dados para criação dos relatórios financeiros.
+        Tecnologias: Python, Pandas, Google Functions, Google BigQuery, Google Cloud Storage.
+
     - company: XP Investimentos
       link: '#'
       tags: C#, Microsoft Azure, DDD, Metodologia Agéis
-      date: 2023.03 - 2022.12
+      date: 2022.03 - 2022.12
       role: Especialista em Arquitetura de Soluções
       location: São Paulo
       description: |
