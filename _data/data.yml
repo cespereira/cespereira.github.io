@@ -25,6 +25,18 @@ experience:
 
   items:
 
+    - company: Kuri Saúde
+      link: '#'
+      tags: Kotlin, Spring Boot, Postgres, AWS.
+      date: 2023.10 - 2024.03
+      role: Engenheiro de Software
+      location: São Paulo
+      description: |
+        Definição, implementação e acompanhamento de soluções que tragam mais performance e escalabilidade para o crescimento sustentável da empresa. 
+        + Dar suporte aos times durante as definições de soluções.
+        + Criar aplicações de prova de conceito com novas tecnologias/arquiteturas.
+        Tecnologias: Kotlin, Spring Boot, Postgres, Typescript, AWS, Metodologia Agéis.
+
     - company: Freelance
       link: '#'
       tags: Python, Pandas, Google Cloud, Google BigQuery, Google Functions
