@@ -24,7 +24,19 @@ experience:
   description: |
 
   items:
-  
+
+    - company: Freelance
+      link: '#'
+      tags: Python, Pandas, Google Cloud, Google BigQuery, Google Functions
+      role: Engenheiro de Software
+      location: São Paulo
+      description: |
+        Definição, implementação de solução de gestão de relatórios financeiros na cloud para uma gestora de fundos de investimento. 
+        + Criar aplicações de prova de conceito com novas tecnologias/arquiteturas.
+        + Definição da arquitetura da solução utilizando plataforma GCloud.
+        + Codificação dos processos de ingestão e manipulação dos dados para criação dos relatórios financeiros.
+        Tecnologias: Python, Pandas, Google Functions, Google BigQuery, Google Cloud Storage.
+
     - company: XP Investimentos
       link: '#'
       tags: C#, Microsoft Azure, DDD, Metodologia Agéis
