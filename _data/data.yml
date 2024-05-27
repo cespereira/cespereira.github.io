@@ -2,7 +2,7 @@ basic:
   name: Cesar Pereira
   title: Engenheiro de Software
   avatar:
-    show: true
+    show: false
     path: /assets/images/profile.png
 
 contact:
