@@ -25,6 +25,18 @@ experience:
 
   items:
 
+    - company: Globant
+      link: '#'
+      tags: Java, Spring Boot, MySQL, AWS.
+      date: 2023.10 - 2024.03
+      role: Tech Lead
+      location: São Paulo
+      description: |
+        Providing technical direction and leadership within a team.  Definition, implementation, and monitoring of solutions that bring more performance and scalability for the company's sustainable growth.
+        + Support teams during solution definitions.
+        + Create proof-of-concept applications with new technologies/architectures.
+        Technologies: Java, Spring Boot, MySQL, Agile Methodologies.
+
     - company: Kuri Saúde
       link: '#'
       tags: Kotlin, Spring Boot, Postgres, AWS.
@@ -32,7 +44,7 @@ experience:
       role: Software Engineer
       location: São Paulo
       description: |
-        Definition, implementation, and monitoring of solutions that bring more performance and scalability for the company's sustainable growth.
+        Definition, implementation, and monitoring solutions that bring more performance and scalability for the company's sustainable growth.
         + Support teams during solution definitions.
         + Create proof-of-concept applications with new technologies/architectures.
         Technologies: Kotlin, Spring Boot, Postgres, Typescript, AWS, Agile Methodologies.
