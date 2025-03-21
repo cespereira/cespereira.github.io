@@ -1,5 +1,5 @@
 basic:
-  name: Cesar Pereira
+  name: Cesar Augusto de Melo Pereira
   title: Software Engineer
   avatar:
     show: false
@@ -7,8 +7,8 @@ basic:
 
 contact:
   location: São Paulo, Brazil
-  github: cespereira
   linkedin: cespereira
+  phone: +5511983166728
 
 profile:
   show: true
